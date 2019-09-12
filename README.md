@@ -9,3 +9,7 @@ So, for it to be easier, use TFP in this exact version, and TF 2.0 if you want t
 TensorFlow version: 2.0.0-beta1
 TensorFlow Probability version: 0.9.0-dev20190912
 
+Even though I did implement my model independently, I must give credit to zhulingchen GitHub user, as he made and excelent tutorial, without the one I wouldn't be able to implement my humble model. 
+
+
+By the way, here is the link for his repository.
