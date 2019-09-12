@@ -6,10 +6,16 @@ As TensorFlow Perobability is having some issues on gathering gradients on neura
 
 So, for it to be easier, use TFP in this exact version, and TF 2.0 if you want to use Gradient Tape and @tf.function
 
-TensorFlow version: 2.0.0-beta1
-TensorFlow Probability version: 0.9.0-dev20190912
+#### TensorFlow version: 2.0.0-beta1
+
+
+#### TensorFlow Probability version: 0.9.0-dev20190912
+
+
+I also implemented a model optimized in "raw TensorFlow 1.14"
 
 Even though I did implement my model independently, I must give credit to zhulingchen GitHub user, as he made and excelent tutorial, without the one I wouldn't be able to implement my humble model. 
 
 
-By the way, here is the link for his repository.
+By the way, here is the link for his repository: https://github.com/zhulingchen/tfp-tutorial
+
