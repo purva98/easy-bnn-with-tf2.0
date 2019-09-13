@@ -14,7 +14,7 @@ Also I documented the code for each TF version, so we can see differences.
 #### TensorFlow Probability version: 0.9.0-dev20190912
 
 
-I also implemented a model optimized in "raw TensorFlow 1.14"
+I also implemented a model optimized in "raw TensorFlow 1.14", and compared its performance with TF 2.0. I saved the notebooks in html for anyone to see. The first epoch of TF2 on training is longer (maybe due to variable and graph initializations"), but after that, it has a 10% faster e a standard deviation 80% smaller than TF 1.14. 
 
 Even though I did implement my model independently, I must give credit to zhulingchen GitHub user, as he made and excelent tutorial, without the one I wouldn't be able to implement my humble model. 
 
