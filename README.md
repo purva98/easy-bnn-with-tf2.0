@@ -6,6 +6,8 @@ As TensorFlow Perobability is having some issues on gathering gradients on neura
 
 So, for it to be easier, use TFP in this exact version, and TF 2.0 if you want to use Gradient Tape and @tf.function
 
+Also I documented the code for each TF version, so we can see differences.
+
 #### TensorFlow version: 2.0.0-beta1
 
 
