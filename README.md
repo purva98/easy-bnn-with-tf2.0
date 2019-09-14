@@ -21,3 +21,4 @@ Even though I did implement my model independently, I must give credit to zhulin
 
 By the way, here is the link for his repository: https://github.com/zhulingchen/tfp-tutorial
 
+#### Todo: illustrate decision process from probabilistic Neural Net sampling
